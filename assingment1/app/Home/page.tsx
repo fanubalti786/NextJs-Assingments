@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Root() {
+export default function Home() {
   return (
     <div>
-      Root Page
+      Home Page
     </div>
   )
 }
