@@ -5,9 +5,10 @@ export default function Directors() {
     <div>
       <div>Information About Some Directors</div>
       <div>
-      <Link href="/Blog/Categories/DirectorNames/irfan">About-Irfan</Link><br/>
-      <Link href="/Blog/Categories/DirectorNames/Mumtaz">About-Mumtaz</Link><br/>
-      <Link href="/Blog/Categories/DirectosNames/Sohail">About-Sohail</Link><br/>
+      <div>Directors</div>
+      <Link href="/Blog/Categories/DirectorNames/khaleel-ur-Rahman">khaleel-ur-Rahman</Link><br/>
+      <Link href="/Blog/Categories/DirectorNames/Hamza-Abbasi">Hamza-Abbasi</Link><br/>
+      <Link href="/Blog/Categories/DirectorNames/Shahzer-Butt">Shahzer-Butt</Link><br/>
       </div>
     </div>
   )
